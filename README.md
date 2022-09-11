@@ -58,3 +58,9 @@ Design a mockup of business solution using insights from the data provided. The 
 - Provide Illustration of results as much as possible.
 - Mockup/wireframe of digital solution for a fleet manager with a prescriptive / decision making feature.
 
+
+### Downloads
+Downloads will be made available during the workshops on Friday, Sept 16. Stay tuned!
+
+We look forward to working with you at the HackZurich 2021!
+You have questions, ideas for your own project, or just want to chat with us? Reach out on DISCORD channel #19-zf or directly at our booth.
