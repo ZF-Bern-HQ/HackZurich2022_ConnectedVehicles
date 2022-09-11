@@ -8,5 +8,43 @@ The task of a fleet manager is to male sure all resources such as vehicles, and 
 
 We challenge you to create a software that would help a fleet manager to be operate the fleet in a most efficient and sustainable way: Invent an intelligent algorithm for efficient operation prediction (fuel consumption as an example), paired with a frontend for visualising and recommending a best use of resources for a fleet.
 
-### Fleets' efficiency and operations
+### Background - Fleets' efficiency and operations
+
+Commercial vehicle fleets (heavy duty vehicles for Cargo transport) are becoming ever more connected, allowing for collection of data sources such as fuel consumption, driving condition, driver behaviour, braking events, location, etc., to name just a few.
+The cost of this increased connectivity eats into the already-small margins of most fleets, but how could be used to a fleet's advantage?
+
+The folllowing is a schematic image of fuel/energy consumption distribution by multiple drivers: 
+![image](https://user-images.githubusercontent.com/27730528/189534561-e959164e-702c-4b4f-b84e-c6aab2b1a373.png)
+
+As shown, driving behaviour is one of the important driver to the fuel consumption. Every fleet manager would like to have a such a picture according to the historical fleet operations and optimized the efficiency and sustainability. The main challenge is to provide enough evidence to the fleet manager to decide based on the data in the past. Hence the fleet manager would be able to optimize his/her resources, i.e., connect a right driver to a right trip and vehicle. 
+
+
+### Problem statement
+
+Question: How might we help the fleet manager use their fleet data to reduce their operating costs and improve sustainability? 
+
+Challenge: Develop a concept that utilises driving insights to optimise the operation of a fleet for its owner.
+
+Hints:
+- Start with a clear business case/idea.
+- Focus on identifying how connecting vehicle data to alternative data sources can add value.
+
+
+### Data provided
+
+- Description of data columns provided in excel.
+- Vehicle fuel consumption data, aggregated at trip-based level, i.e., how much fuel consumed during a trip.
+- Dashboard available (Power BI)
+- Data extract of >15000 trips, 43 vehicles, and 178 drivers (available in power bi table)
+
+
+### Goal
+
+Design a mockup of business solution using insights from the data provided. The solution should serve a fleet manager to optimize the fleet operation.
+
+### Our expectation
+
+- Presentation with a clear problem statement & solution definition (a business opportunity potentially supported by market demand).
+- Provide Illustration of results as much as possible.
+- Mockup/wireframe of digital solution for a fleet manager with a prescriptive / decision making feature.
 
