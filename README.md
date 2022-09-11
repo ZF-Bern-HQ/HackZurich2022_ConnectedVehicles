@@ -8,7 +8,17 @@ The task of a fleet manager is to male sure all resources such as vehicles, and 
 
 We challenge you to create a software that would help a fleet manager to be operate the fleet in a most efficient and sustainable way: Invent an intelligent algorithm for efficient operation prediction (fuel consumption as an example), paired with a frontend for visualising and recommending a best use of resources for a fleet.
 
-### Background - Fleets' efficiency and operations
+### Background 
+
+Our Digital Fleet Management Solution https://www.zf.com/products/en/cv/fleet/fleet_emea.html develops and commercializes digital transport services for fleets and logistics sector. We are a global full solution provider of truck, driver, trailer, cargo and subcontractor management.
+![image](https://user-images.githubusercontent.com/27730528/189535145-941e9331-1e85-4e05-b76d-bb4c5bc4ac20.png)
+
+The component of the commercial vehicles (truck & trailers) are connected and continuosly transmit data to the cloud over the status and their condition:
+![image](https://user-images.githubusercontent.com/27730528/189535243-a207c9af-ce93-4bca-ae44-7c28d1299678.png)
+
+
+
+### Fleets' efficiency and operation
 
 Commercial vehicle fleets (heavy duty vehicles for Cargo transport) are becoming ever more connected, allowing for collection of data sources such as fuel consumption, driving condition, driver behaviour, braking events, location, etc., to name just a few.
 The cost of this increased connectivity eats into the already-small margins of most fleets, but how could be used to a fleet's advantage?
