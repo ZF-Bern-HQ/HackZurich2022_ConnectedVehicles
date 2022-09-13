@@ -31,11 +31,11 @@ As shown, driving behaviour is one of the important driver to the fuel consumpti
 
 ### Problem statement
 
-Question: How might we help the fleet manager use their fleet data to reduce their operating costs and improve sustainability? 
+*Question:* How might we help the fleet manager use their fleet data to reduce their operating costs and improve sustainability? 
 
-Challenge: Develop a concept that utilises driving insights to optimise the operation of a fleet for its owner.
+*Challenge:* Develop a concept that utilises driving insights to optimise the operation of a fleet for its owner.
 
-Hints:
+*Hints:*
 - Start with a clear business case/idea.
 - Focus on identifying how connecting vehicle data to alternative data sources can add value.
 
