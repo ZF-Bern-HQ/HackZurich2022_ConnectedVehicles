@@ -11,20 +11,22 @@ We challenge you to create a software that would help a fleet manager to be oper
 ### Background 
 
 Our [Digital Fleet Management Solution](https://www.zf.com/products/en/cv/fleet/fleet_emea.html) develops and commercializes digital transport services for fleets and logistics sector. We are a global full solution provider of truck, driver, trailer, cargo and subcontractor management.
-![image](https://user-images.githubusercontent.com/27730528/189535145-941e9331-1e85-4e05-b76d-bb4c5bc4ac20.png)
+
+<img src="https://user-images.githubusercontent.com/27730528/189535145-941e9331-1e85-4e05-b76d-bb4c5bc4ac20.png"  width="700">
 
 The component of the commercial vehicles (truck & trailers) are connected and continuosly transmit data to the cloud over the status and their condition:
-![image](https://user-images.githubusercontent.com/27730528/189535243-a207c9af-ce93-4bca-ae44-7c28d1299678.png)
+
+<img src="https://user-images.githubusercontent.com/27730528/189535243-a207c9af-ce93-4bca-ae44-7c28d1299678.png"  width="700">
 
 
-
-### Fleets' efficiency and operation
+Let's describe it in more details in the following what we mean by Fleets' efficiency in operation.
 
 Commercial vehicle fleets (heavy duty vehicles for Cargo transport) are becoming ever more connected, allowing for collection of data sources such as fuel consumption, driving condition, driver behaviour, braking events, location, etc., to name just a few.
 The cost of this increased connectivity eats into the already-small margins of most fleets, but how could be used to a fleet's advantage?
 
 The folllowing is a schematic image of fuel/energy consumption distribution by multiple drivers: 
-![image](https://user-images.githubusercontent.com/27730528/189534561-e959164e-702c-4b4f-b84e-c6aab2b1a373.png)
+
+<img src="https://user-images.githubusercontent.com/27730528/189534561-e959164e-702c-4b4f-b84e-c6aab2b1a373.png"  width="500">
 
 As shown, driving behaviour is one of the important driver to the fuel consumption. Every fleet manager would like to have a such a picture according to the historical fleet operations and optimized the efficiency and sustainability. The main challenge is to provide enough evidence to the fleet manager to decide based on the data in the past. Hence the fleet manager would be able to optimize his/her resources, i.e., connect a right driver to a right trip and vehicle. 
 
@@ -52,10 +54,12 @@ The Dataset contains >15000 trips, 43 vehicles, and 178 drivers (available in po
 ### Goal
 
 In the power bi dashboard we have provided some insight on various factors playing a role for the fuel consumption at a descriptive level. The first goal is try to clasify the features which are contributing on driving behavior for example.
-![image](https://user-images.githubusercontent.com/113338125/190188820-69cc40a3-cc4a-4172-89f7-d1e484bdb34e.png)
+<img src="https://user-images.githubusercontent.com/113338125/190188820-69cc40a3-cc4a-4172-89f7-d1e484bdb34e.png"  width="700">
+
 
 The trips (vehicle missions) can be clustered as we have shown in the insight tab based on varios feature and a so-called K-means metric:
-![image](https://user-images.githubusercontent.com/113338125/190189748-d251054f-f90a-412c-8868-8d422b6f633f.png)
+<img src="https://user-images.githubusercontent.com/113338125/190189748-d251054f-f90a-412c-8868-8d422b6f633f.png"  width="800">
+
 
 One of the goal here could be to build up a model to demonstrate how much driving behavior contributes positively on classifying the trips or drivers. Therefore one can estimate the contribution of the driving behavior on the fuel consumption.
 
