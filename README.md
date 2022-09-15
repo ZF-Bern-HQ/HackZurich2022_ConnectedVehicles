@@ -42,10 +42,11 @@ As shown, driving behaviour is one of the important driver to the fuel consumpti
 
 ### Data provided
 
-- Description of data columns provided in excel.
-- Vehicle fuel consumption data, aggregated at trip-based level, i.e., how much fuel consumed during a trip.
-- Dashboard available (Power BI)
-- Data extract of >15000 trips, 43 vehicles, and 178 drivers (available in power bi table)
+- Description of data columns provided in excel format (Description_data_ZF.xlsx).
+- Vehicle fuel consumption data, aggregated at trip-based level, i.e., how much fuel consumed during various trip missions (defined by ignition on/off) of the vehicle.
+- Dashboard available in Power BI (ZF_powerbi.pbix).
+
+The Dataset contains >15000 trips, 43 vehicles, and 178 drivers (available in power bi data table sheet as well).
 
 
 ### Goal
